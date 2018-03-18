@@ -1,0 +1,43 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.Rec1 {
+  background: lightgray;
+  padding: 10px 15px;
+}
+
+.Rec2double {
+  padding: 5%;
+}
+
+.Rec3 {
+  background: rgb(120, 162, 241);
+  height: 14%;
+}
+
+.Rec4 {
+  background: rgb(121, 245, 228);
+  height: 14%;
+}
+
+.Rec5 {
+  background: rgb(219, 245, 172);
+  height: 14%;
+}
+
+.Rec6 {
+  background: yellow;
+  height: 14%;
+}
+
+.Square {
+  background: rgb(120, 162, 241);
+  width: 10vw;
+  height: 10vw;
+}
+
+.Text {
+  font-family: Arial, Helvetica, sans-serif;
+}
